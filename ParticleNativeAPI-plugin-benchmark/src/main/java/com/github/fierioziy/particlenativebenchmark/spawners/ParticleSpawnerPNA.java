@@ -1,7 +1,7 @@
-package com.github.fierioziy.particlenativebenchmark.spawners;
+package com.github.xap3y.particlenativebenchmark.spawners;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativebenchmark.command.CommandPNAB;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativebenchmark.command.CommandPNAB;
 import org.bukkit.entity.Player;
 
 public class ParticleSpawnerPNA implements ParticleSpawner {

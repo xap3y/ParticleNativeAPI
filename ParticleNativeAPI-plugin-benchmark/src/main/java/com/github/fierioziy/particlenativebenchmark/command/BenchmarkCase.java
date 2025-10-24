@@ -1,6 +1,6 @@
-package com.github.fierioziy.particlenativebenchmark.command;
+package com.github.xap3y.particlenativebenchmark.command;
 
-import com.github.fierioziy.particlenativebenchmark.spawners.*;
+import com.github.xap3y.particlenativebenchmark.spawners.*;
 
 import java.util.function.Function;
 

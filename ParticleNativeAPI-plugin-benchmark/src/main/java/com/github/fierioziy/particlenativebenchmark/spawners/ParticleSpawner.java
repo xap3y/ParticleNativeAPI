@@ -1,4 +1,4 @@
-package com.github.fierioziy.particlenativebenchmark.spawners;
+package com.github.xap3y.particlenativebenchmark.spawners;
 
 import org.bukkit.entity.Player;
 

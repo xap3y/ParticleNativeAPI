@@ -1,9 +1,9 @@
-package com.github.fierioziy.particlenativebenchmark;
+package com.github.xap3y.particlenativebenchmark;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativeapi.api.utils.ParticleException;
-import com.github.fierioziy.particlenativeapi.core.ParticleNativeCore;
-import com.github.fierioziy.particlenativebenchmark.command.CommandPNAB;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativeapi.api.utils.ParticleException;
+import com.github.xap3y.particlenativeapi.core.ParticleNativeCore;
+import com.github.xap3y.particlenativebenchmark.command.CommandPNAB;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ParticleNativeBenchmarkPlugin extends JavaPlugin {

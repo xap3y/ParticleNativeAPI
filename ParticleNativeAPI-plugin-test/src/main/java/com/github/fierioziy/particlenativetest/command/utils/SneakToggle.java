@@ -1,4 +1,4 @@
-package com.github.fierioziy.particlenativetest.command.utils;
+package com.github.xap3y.particlenativetest.command.utils;
 
 public class SneakToggle {
 

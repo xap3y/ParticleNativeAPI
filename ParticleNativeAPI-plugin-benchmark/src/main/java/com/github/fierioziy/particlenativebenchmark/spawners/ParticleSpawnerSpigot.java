@@ -1,6 +1,6 @@
-package com.github.fierioziy.particlenativebenchmark.spawners;
+package com.github.xap3y.particlenativebenchmark.spawners;
 
-import com.github.fierioziy.particlenativebenchmark.command.CommandPNAB;
+import com.github.xap3y.particlenativebenchmark.command.CommandPNAB;
 import org.bukkit.Particle;
 import org.bukkit.entity.Player;
 

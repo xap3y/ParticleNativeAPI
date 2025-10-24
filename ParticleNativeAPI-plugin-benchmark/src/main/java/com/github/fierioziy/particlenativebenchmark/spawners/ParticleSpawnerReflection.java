@@ -1,6 +1,6 @@
-package com.github.fierioziy.particlenativebenchmark.spawners;
+package com.github.xap3y.particlenativebenchmark.spawners;
 
-import com.github.fierioziy.particlenativebenchmark.command.CommandPNAB;
+import com.github.xap3y.particlenativebenchmark.command.CommandPNAB;
 import net.minecraft.core.particles.ParticleParam;
 import net.minecraft.core.particles.Particles;
 import net.minecraft.network.protocol.Packet;

@@ -1,8 +1,8 @@
-package com.github.fierioziy.particlenativetest.command;
+package com.github.xap3y.particlenativetest.command;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativetest.ParticleNativeTestPlugin;
-import com.github.fierioziy.particlenativetest.command.utils.SneakToggle;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativetest.ParticleNativeTestPlugin;
+import com.github.xap3y.particlenativetest.command.utils.SneakToggle;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.Command;

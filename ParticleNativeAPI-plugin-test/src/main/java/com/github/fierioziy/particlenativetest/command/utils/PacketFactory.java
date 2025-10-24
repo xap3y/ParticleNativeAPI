@@ -1,7 +1,7 @@
-package com.github.fierioziy.particlenativetest.command.utils;
+package com.github.xap3y.particlenativetest.command.utils;
 
-import com.github.fierioziy.particlenativeapi.api.packet.ParticlePacket;
-import com.github.fierioziy.particlenativeapi.api.particle.type.*;
+import com.github.xap3y.particlenativeapi.api.packet.ParticlePacket;
+import com.github.xap3y.particlenativeapi.api.particle.type.*;
 import org.bukkit.Color;
 import org.bukkit.Location;
 import org.bukkit.Material;

@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.github.fierioziy.particlenativeapi</groupId>
+        <groupId>com.github.xap3y.particlenativeapi</groupId>
         <artifactId>ParticleNativeAPI-parent</artifactId>
         <version>4.4.1</version>
     </parent>
@@ -46,7 +46,7 @@
                             <artifactSet>
                                 <excludes>
                                     <exclude>org.ow2.asm:asm</exclude>
-                                    <exclude>com.github.fierioziy.particlenativeapi:ParticleNativeAPI-api</exclude>
+                                    <exclude>com.github.xap3y.particlenativeapi:ParticleNativeAPI-api</exclude>
                                 </excludes>
                             </artifactSet>
 
@@ -110,7 +110,7 @@
 
         <!-- shade core API -->
         <dependency>
-            <groupId>com.github.fierioziy.particlenativeapi</groupId>
+            <groupId>com.github.xap3y.particlenativeapi</groupId>
             <artifactId>ParticleNativeAPI-core</artifactId>
         </dependency>
     </dependencies>

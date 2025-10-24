@@ -1,8 +1,8 @@
-package com.github.fierioziy.particlenativebenchmark.command;
+package com.github.xap3y.particlenativebenchmark.command;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativebenchmark.ParticleNativeBenchmarkPlugin;
-import com.github.fierioziy.particlenativebenchmark.spawners.ParticleSpawner;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativebenchmark.ParticleNativeBenchmarkPlugin;
+import com.github.xap3y.particlenativebenchmark.spawners.ParticleSpawner;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.Command;

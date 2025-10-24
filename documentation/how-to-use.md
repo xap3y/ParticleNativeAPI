@@ -33,7 +33,7 @@ Example including and shading:
                             <!-- with other plugins using this core API -->
                             <relocations>
                                 <relocation>
-                                    <pattern>com.github.fierioziy.particlenativeapi</pattern>
+                                    <pattern>com.github.xap3y.particlenativeapi</pattern>
                                     <shadedPattern>me.yourpluginpackage.particleapi</shadedPattern>
                                 </relocation>
                             </relocations>
@@ -49,7 +49,7 @@ Example including and shading:
     </build>
     <dependencies>
         <dependency>
-            <groupId>com.github.fierioziy.particlenativeapi</groupId>
+            <groupId>com.github.xap3y.particlenativeapi</groupId>
             <artifactId>ParticleNativeAPI-core</artifactId>
             <version>4.4.1</version>
             <scope>compile</scope>
@@ -92,7 +92,7 @@ Alternatively you can use Maven (from official Maven repository):
 ```xml
     <dependencies>
         <dependency>
-            <groupId>com.github.fierioziy.particlenativeapi</groupId>
+            <groupId>com.github.xap3y.particlenativeapi</groupId>
             <artifactId>ParticleNativeAPI-plugin</artifactId>
             <version>4.4.1</version>
             <scope>provided</scope>

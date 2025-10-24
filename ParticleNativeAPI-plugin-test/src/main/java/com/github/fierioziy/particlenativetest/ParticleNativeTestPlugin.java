@@ -1,10 +1,10 @@
-package com.github.fierioziy.particlenativetest;
+package com.github.xap3y.particlenativetest;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativeapi.api.utils.ParticleException;
-import com.github.fierioziy.particlenativeapi.core.ParticleNativeCore;
-import com.github.fierioziy.particlenativetest.command.CommandPNAL;
-import com.github.fierioziy.particlenativetest.command.CommandPNAT;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativeapi.api.utils.ParticleException;
+import com.github.xap3y.particlenativeapi.core.ParticleNativeCore;
+import com.github.xap3y.particlenativetest.command.CommandPNAL;
+import com.github.xap3y.particlenativetest.command.CommandPNAT;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ParticleNativeTestPlugin extends JavaPlugin {

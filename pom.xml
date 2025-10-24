@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- artifact info -->
-    <groupId>com.github.fierioziy.particlenativeapi</groupId>
+    <groupId>com.github.xap3y.particlenativeapi</groupId>
     <artifactId>ParticleNativeAPI-parent</artifactId>
     <packaging>pom</packaging>
     <version>4.4.1</version>
@@ -24,7 +24,7 @@
 
     <name>ParticleNativeAPI</name>
     <description>Provides API for spawning particles on Spigot server.</description>
-    <url>https://github.com/Fierioziy/ParticleNativeAPI</url>
+    <url>https://github.com/xap3y/ParticleNativeAPI</url>
 
     <!-- developer info -->
     <developers>
@@ -49,9 +49,9 @@
 
     <!-- VC info -->
     <scm>
-        <connection>scm:git:git://github.com/Fierioziy/ParticleNativeAPI.git</connection>
-        <developerConnection>scm:git:git@github.com:Fierioziy/Fierioziy.git</developerConnection>
-        <url>https://github.com/Fierioziy/ParticleNativeAPI</url>
+        <connection>scm:git:git://github.com/xap3y/ParticleNativeAPI.git</connection>
+        <developerConnection>scm:git:git@github.com:xap3y/xap3y.git</developerConnection>
+        <url>https://github.com/xap3y/ParticleNativeAPI</url>
         <tag>HEAD</tag>
     </scm>
 
@@ -267,18 +267,13 @@
 
             <!-- declare modules version -->
             <dependency>
-                <groupId>com.github.fierioziy.particlenativeapi</groupId>
+                <groupId>com.github.xap3y.particlenativeapi</groupId>
                 <artifactId>ParticleNativeAPI-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.fierioziy.particlenativeapi</groupId>
+                <groupId>com.github.xap3y.particlenativeapi</groupId>
                 <artifactId>ParticleNativeAPI-core</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.github.fierioziy.particlenativeapi</groupId>
-                <artifactId>ParticleNativeAPI-plugin</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>

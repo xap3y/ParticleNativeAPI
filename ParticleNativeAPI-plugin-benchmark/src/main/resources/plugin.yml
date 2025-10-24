@@ -1,6 +1,6 @@
 name: ParticleNativeAPI-benchmark
 version: ${project.version}
-main: com.github.fierioziy.particlenativebenchmark.ParticleNativeBenchmarkPlugin
+main: com.github.xap3y.particlenativebenchmark.ParticleNativeBenchmarkPlugin
 
 author: Fierioziy
 description: "ParticleNativeAPI benchmark plugin"

@@ -1,6 +1,6 @@
 name: ParticleNativeAPI-test
 version: ${project.version}
-main: com.github.fierioziy.particlenativetest.ParticleNativeTestPlugin
+main: com.github.xap3y.particlenativetest.ParticleNativeTestPlugin
 
 author: Fierioziy
 description: "ParticleNativeAPI test plugin"

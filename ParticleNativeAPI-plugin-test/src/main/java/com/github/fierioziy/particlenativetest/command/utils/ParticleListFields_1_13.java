@@ -1,7 +1,7 @@
-package com.github.fierioziy.particlenativetest.command.utils;
+package com.github.xap3y.particlenativetest.command.utils;
 
-import com.github.fierioziy.particlenativeapi.api.particle.type.ParticleType;
-import com.github.fierioziy.particlenativeapi.api.particle.type.ParticleTypeBlock;
+import com.github.xap3y.particlenativeapi.api.particle.type.ParticleType;
+import com.github.xap3y.particlenativeapi.api.particle.type.ParticleTypeBlock;
 
 public class ParticleListFields_1_13 {
 

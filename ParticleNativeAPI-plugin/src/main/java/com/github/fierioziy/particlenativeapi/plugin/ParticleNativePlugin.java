@@ -1,8 +1,8 @@
-package com.github.fierioziy.particlenativeapi.plugin;
+package com.github.xap3y.particlenativeapi.plugin;
 
-import com.github.fierioziy.particlenativeapi.api.ParticleNativeAPI;
-import com.github.fierioziy.particlenativeapi.core.ParticleNativeCore;
-import com.github.fierioziy.particlenativeapi.api.utils.ParticleException;
+import com.github.xap3y.particlenativeapi.api.ParticleNativeAPI;
+import com.github.xap3y.particlenativeapi.core.ParticleNativeCore;
+import com.github.xap3y.particlenativeapi.api.utils.ParticleException;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
