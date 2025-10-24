@@ -41,8 +41,8 @@ public abstract class ParticleList_1_8 extends ParticleSupplier_1_8 {
     public final ParticleTypeMotion CRIT_MAGIC = CRIT_MAGIC();
     public final ParticleTypeMotion SMOKE_NORMAL = SMOKE_NORMAL();
     public final ParticleTypeMotion SMOKE_LARGE = SMOKE_LARGE();
-    public final ParticleType SPELL = SPELL();
-    public final ParticleType SPELL_INSTANT = SPELL_INSTANT();
+    //public final ParticleType SPELL = SPELL();
+    //public final ParticleType SPELL_INSTANT = SPELL_INSTANT();
     public final ParticleTypeColorable SPELL_MOB = SPELL_MOB();// replaced in 1.20.5 in ParticleList_1_19_Part (mutually exclusive)
     public final ParticleTypeColorable SPELL_MOB_AMBIENT = SPELL_MOB_AMBIENT();// removed in 1.20.5
     public final ParticleType SPELL_WITCH = SPELL_WITCH();
@@ -75,7 +75,7 @@ public abstract class ParticleList_1_8 extends ParticleSupplier_1_8 {
     public final ParticleType MOB_APPEARANCE = MOB_APPEARANCE();
 
     // 1.9
-    public final ParticleTypeMotion DRAGON_BREATH = DRAGON_BREATH();
+    //public final ParticleTypeMotion DRAGON_BREATH = DRAGON_BREATH();
     public final ParticleTypeMotion END_ROD = END_ROD();
     public final ParticleTypeMotion DAMAGE_INDICATOR = DAMAGE_INDICATOR();
     public final ParticleType SWEEP_ATTACK = SWEEP_ATTACK();

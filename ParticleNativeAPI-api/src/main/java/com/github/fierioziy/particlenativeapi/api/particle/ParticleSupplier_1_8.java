@@ -24,8 +24,8 @@ abstract class ParticleSupplier_1_8 {
     protected abstract ParticleTypeMotion CRIT_MAGIC();
     protected abstract ParticleTypeMotion SMOKE_NORMAL();
     protected abstract ParticleTypeMotion SMOKE_LARGE();
-    protected abstract ParticleType SPELL();
-    protected abstract ParticleType SPELL_INSTANT();
+    //protected abstract ParticleType SPELL();
+    //protected abstract ParticleType SPELL_INSTANT();
     protected abstract ParticleTypeColorable SPELL_MOB();
     protected abstract ParticleTypeColorable SPELL_MOB_AMBIENT();
     protected abstract ParticleType SPELL_WITCH();
@@ -58,7 +58,7 @@ abstract class ParticleSupplier_1_8 {
     protected abstract ParticleType MOB_APPEARANCE();
 
     // 1.9
-    protected abstract ParticleTypeMotion DRAGON_BREATH();
+    //protected abstract ParticleTypeMotion DRAGON_BREATH();
     protected abstract ParticleTypeMotion END_ROD();
     protected abstract ParticleTypeMotion DAMAGE_INDICATOR();
     protected abstract ParticleType SWEEP_ATTACK();

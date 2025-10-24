@@ -198,8 +198,8 @@ public class ParticleRegistry {
         registrar.follow(           "crit_magic",           "enchanted_hit");
         registrar.follow(           "smoke_normal",         "smoke");
         registrar.follow(           "smoke_large",          "large_smoke");
-        registrar.follow(           "spell",                "effect");
-        registrar.follow(           "spell_instant",        "instant_effect");
+        //registrar.follow(           "spell",                "effect");
+        //registrar.follow(           "spell_instant",        "instant_effect");
         registrar.follow(           "spell_mob",            "entity_effect");
         registrar.follow(           "spell_mob_ambient",    "ambient_entity_effect");
         registrar.follow(           "spell_witch",          "witch");
@@ -231,7 +231,7 @@ public class ParticleRegistry {
 
         registrar.follow(           "mob_appearance",       "elder_guardian");
 
-        registrar.follow(           "dragon_breath",        "dragon_breath");
+        //registrar.follow(           "dragon_breath",        "dragon_breath");
         registrar.follow(           "end_rod",              "end_rod");
         registrar.follow(           "damage_indicator",     "damage_indicator");
         registrar.follow(           "sweep_attack",         "sweep_attack");
@@ -262,7 +262,7 @@ public class ParticleRegistry {
         registrar.followNew("landing_honey");
 
         // other working ones
-        registrar.followNew("flash");
+        //registrar.followNew("flash");
         registrar.followNew("falling_lava");
         registrar.followNew("falling_water");
         registrar.followNew("landing_lava");

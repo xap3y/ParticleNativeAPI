@@ -23,8 +23,8 @@ abstract class ParticleSupplier_1_13 {
     protected abstract ParticleTypeMotion ENCHANTED_HIT();
     protected abstract ParticleTypeMotion SMOKE();
     protected abstract ParticleTypeMotion LARGE_SMOKE();
-    protected abstract ParticleType EFFECT();
-    protected abstract ParticleType INSTANT_EFFECT();
+    //protected abstract ParticleType EFFECT();
+    //protected abstract ParticleType INSTANT_EFFECT();
     protected abstract ParticleTypeColorable ENTITY_EFFECT();
     protected abstract ParticleTypeColorable AMBIENT_ENTITY_EFFECT();
     protected abstract ParticleType WITCH();
@@ -53,7 +53,7 @@ abstract class ParticleSupplier_1_13 {
     protected abstract ParticleType ELDER_GUARDIAN();
 
     // 1.9
-    protected abstract ParticleTypeMotion DRAGON_BREATH();
+    //protected abstract ParticleTypeMotion DRAGON_BREATH();
     protected abstract ParticleTypeMotion END_ROD();
     protected abstract ParticleTypeMotion DAMAGE_INDICATOR();
     protected abstract ParticleType SWEEP_ATTACK();
@@ -86,7 +86,7 @@ abstract class ParticleSupplier_1_13 {
     protected abstract ParticleType LANDING_HONEY();
 
     // other working ones
-    protected abstract ParticleType FLASH();
+    //protected abstract ParticleType FLASH();
     protected abstract ParticleType FALLING_LAVA();
     protected abstract ParticleType FALLING_WATER();
     protected abstract ParticleType LANDING_LAVA();

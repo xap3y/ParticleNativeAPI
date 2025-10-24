@@ -40,8 +40,8 @@ public abstract class ParticleList_1_13 extends ParticleSupplier_1_13 {
     public final ParticleTypeMotion ENCHANTED_HIT = ENCHANTED_HIT();
     public final ParticleTypeMotion SMOKE = SMOKE();
     public final ParticleTypeMotion LARGE_SMOKE = LARGE_SMOKE();
-    public final ParticleType EFFECT = EFFECT();
-    public final ParticleType INSTANT_EFFECT = INSTANT_EFFECT();
+    //public final ParticleType EFFECT = EFFECT();
+    //public final ParticleType INSTANT_EFFECT = INSTANT_EFFECT();
     public final ParticleTypeColorable ENTITY_EFFECT = ENTITY_EFFECT();// replaced in 1.20.5 in ParticleList_1_19_Part (mutually exclusive)
     public final ParticleTypeColorable AMBIENT_ENTITY_EFFECT = AMBIENT_ENTITY_EFFECT();// removed in 1.20.5
     public final ParticleType WITCH = WITCH();
@@ -70,7 +70,7 @@ public abstract class ParticleList_1_13 extends ParticleSupplier_1_13 {
     public final ParticleType ELDER_GUARDIAN = ELDER_GUARDIAN();
 
     // 1.9
-    public final ParticleTypeMotion DRAGON_BREATH = DRAGON_BREATH();
+    //public final ParticleTypeMotion DRAGON_BREATH = DRAGON_BREATH();
     public final ParticleTypeMotion END_ROD = END_ROD();
     public final ParticleTypeMotion DAMAGE_INDICATOR = DAMAGE_INDICATOR();
     public final ParticleType SWEEP_ATTACK = SWEEP_ATTACK();
@@ -103,7 +103,7 @@ public abstract class ParticleList_1_13 extends ParticleSupplier_1_13 {
     public final ParticleType LANDING_HONEY = LANDING_HONEY();
 
     // other working ones
-    public final ParticleType FLASH = FLASH();
+    //public final ParticleType FLASH = FLASH();
     public final ParticleType FALLING_LAVA = FALLING_LAVA();
     public final ParticleType FALLING_WATER = FALLING_WATER();
     public final ParticleType LANDING_LAVA = LANDING_LAVA();
